@@ -13,5 +13,9 @@ Since 2019 I'm also Curriculum Director and an instructor at [DevelopMe_](https:
 - [cmt](https://github.com/smallhadroncollider/cmt): enforce consistent Git commits
 - [How Secure Is My Password?](https://howsecureismypassword.net): a password strength meter
 
+## Sponsor
+
+If you'd like to support any of these projects, you can [sponsor me here](https://github.com/sponsors/smallhadroncollider).
+
 
 ![Underground](https://github.com/smallhadroncollider/smallhadroncollider/blob/main/underground.jpg?raw=true)
