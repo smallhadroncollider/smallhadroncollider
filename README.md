@@ -1,4 +1,4 @@
-![Small Hadron Collider](title.jpg)
+![Small Hadron Collider](https://github.com/smallhadroncollider/smallhadroncollider/blob/main/title.jpg?raw=true)
 
 I'm a software developer and consultant based in Bristol.
 
@@ -14,4 +14,4 @@ Since 2019 I'm also Curriculum Director and an instructor at [DevelopMe_](https:
 - [How Secure Is My Password?](https://howsecureismypassword.net): a password strength meter
 
 
-![Underground](underground.jpg)
+![Underground](https://github.com/smallhadroncollider/smallhadroncollider/blob/main/underground.jpg?raw=true)
