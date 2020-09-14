@@ -19,3 +19,5 @@ If you'd like to support any of these projects, you can [sponsor me here](https:
 
 
 ![Underground](https://github.com/smallhadroncollider/smallhadroncollider/blob/main/underground.jpg?raw=true)
+
+Illustration by [Lauren Radley](https://www.laurenradley.com) • Copyright Mark Wales, 2020
