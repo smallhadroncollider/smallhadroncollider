@@ -14,7 +14,7 @@ Since 2019 I'm also Curriculum Director and an instructor at [DevelopMe_](https:
 
 ## Sponsor
 
-If you'd like to support any of these projects, you can [sponsor me here](https://github.com/sponsors/smallhadroncollider).
+If you'd like to support any of these projects, you can [buy me a book](https://www.buymeacoffee.com/shc).
 
 ![Underground](https://github.com/smallhadroncollider/smallhadroncollider/blob/main/underground.jpg?raw=true)
 
